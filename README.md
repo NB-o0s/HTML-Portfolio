@@ -1,2 +1,2 @@
 # HTML-Portfolio
-My Portfolio of my learning
+My Portfolio of my learnings
